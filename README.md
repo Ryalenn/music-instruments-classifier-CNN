@@ -119,10 +119,7 @@ Final predictions are exported into a CSV file.
 ├── predict.py
 ├── instruments.csv
 ├── predictions.csv
-├── /wavfiles
-├── /clean
-├── /models
-└── /pickles
+└── /wavfiles
 ```
 
 ---
